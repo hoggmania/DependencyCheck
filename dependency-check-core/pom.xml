@@ -604,7 +604,7 @@ Copyright (c) 2012 Jeremy Long. All Rights Reserved.
                 <dependency>
                     <groupId>com.thoughtworks.xstream</groupId>
                     <artifactId>xstream</artifactId>
-                    <version>1.4.15</version>
+                    <version>1.4.18</version>
                     <scope>provided</scope>
                     <optional>true</optional>
                 </dependency>
